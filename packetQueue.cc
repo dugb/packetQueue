@@ -33,11 +33,6 @@ void consume(PacketQueue<int>& q, unsigned int id) {
 #include <thread>
 int main()
 {
-
-
-
-
-
   PacketQueue<int> PQ;
 
   // Start the producer thread.
